@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Success_CreditCard_Payment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>42bc9775-f61b-4de6-9f84-98a285b75ac8</testCaseGuid>
+   <variable>
+      <defaultValue>'4811111111111114'</defaultValue>
+      <description></description>
+      <id>3a427318-8ac4-43b4-be4f-43bdd7aeda1a</id>
+      <masked>false</masked>
+      <name>Card_Number</name>
+   </variable>
+   <variable>
+      <defaultValue>'0125'</defaultValue>
+      <description></description>
+      <id>dbba31a7-d551-407a-8cbd-ab820bdfceb4</id>
+      <masked>false</masked>
+      <name>Exp_Card</name>
+   </variable>
+   <variable>
+      <defaultValue>'123'</defaultValue>
+      <description></description>
+      <id>0d3b9723-4523-4d5d-a9a4-1d3b59e61980</id>
+      <masked>false</masked>
+      <name>CVV</name>
+   </variable>
+</TestCaseEntity>

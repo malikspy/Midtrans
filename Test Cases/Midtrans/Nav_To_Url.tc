@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Nav_To_Url</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4c0b238e-0206-41ca-b4bb-0d5cff3f37a9</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.Url</defaultValue>
+      <description></description>
+      <id>6001386b-5ecd-4e00-b70c-0d75abf3f62b</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

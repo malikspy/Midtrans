@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input Data Customer</description>
+   <name>Shopping_Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b30d54ee-82fb-40dc-a124-2520cd85eb96</testCaseGuid>
+</TestCaseEntity>
