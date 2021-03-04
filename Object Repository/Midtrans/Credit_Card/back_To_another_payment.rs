@@ -26,4 +26,11 @@
       <type>Main</type>
       <value>.button-main-content</value>
    </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-main-content</value>
+   </webElementProperties>
 </WebElementEntity>

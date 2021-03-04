@@ -37,6 +37,8 @@ WebUI.click(findTestObject('Midtrans/Credit_Card/Btn_Ok'))
 
 WebUI.delay(1)
 
+// WebUI.switchToDefaultContent()
+
 WebUI.switchToFrame(findTestObject('Midtrans/Shopping_Cart_Menu/Iframe_1'), 2)
 
 WebUI.click(findTestObject('Midtrans/Credit_Card/back_To_another_payment'))

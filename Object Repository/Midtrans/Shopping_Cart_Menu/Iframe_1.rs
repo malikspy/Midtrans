@@ -6,12 +6,12 @@
    <elementGuidId>2ace60af-b10b-4637-b139-eb36c7990c2d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>iframe[id='snap-midtrans']</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//*[@id = 'snap-midtrans']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>iframe[id='snap-midtrans']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
